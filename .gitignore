@@ -1,0 +1,12 @@
+Ec2 key pair.pem
+new_user_credentials.csv
+santhosh_accessKeys.csv
+.DS_Store
+._*
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
